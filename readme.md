@@ -1,4 +1,4 @@
-## impulsory
+## compulsory
 
 ### AMA505
 
